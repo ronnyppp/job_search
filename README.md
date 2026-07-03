@@ -51,7 +51,7 @@ The app uses a GraphQL API powered by Apollo Server to fetch job data and uses S
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/ronnyppp/job_search
+git clone https://github.com/ronnyppp/job_search.git
 cd job_search
 ```
 
